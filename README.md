@@ -16,7 +16,7 @@ Telegram :- @hawkshaw02
 
 # Features :-
 
-### Optimised for android 9!
+### Optimised for android 10!
 ### Fully Hidden
 ### Camera
 ### Storage
@@ -38,6 +38,7 @@ Telegram :- @hawkshaw02
 ### Open an URL in the default browser
 ### Do vibrate the phone
 ### Explore Files with full access.
+### Many more features
 
 Web Interface is available
 
