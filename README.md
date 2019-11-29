@@ -2,7 +2,7 @@
 
 This is just a demo repository :-
 
-Full code is deployed at https://hawkshawspy.com
+Full code is deployed at https://sakshamgupta.me/hawkshaw/
 
 For subscription/queries, email me at gupta.10@iitj.ac.in
 or
