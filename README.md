@@ -38,7 +38,19 @@ Telegram :- @hawkshaw02
 ### Open an URL in the default browser
 ### Do vibrate the phone
 ### Explore Files with full access.
+#### Material Client Side Web Panel
+#### Upload Contacts
+#### Upload Call Log
+#### Upload Messages
+#### Upload Photos
+#### Current Location
+#### Open a perticular web page 
+#### Mobile Number, Network provider, UUID, SDK version, android version, etc.
+#### Video Uploads
+#### Live screen recording
+#### Take screenshot remotely
 ### Many more features
+
 
 Web Interface is available
 
@@ -53,21 +65,9 @@ Goto https://hawkshawspy.com which is android spy app(v2.0) front end. And let m
 The new version of android spy app is completely build on firebase. So you may not need of any other backend server.
 So please test my new version of android spy app, with more capabilities and stability.
 
-## Specifications
-#### Material Client Side Web Panel
-#### Upload Contacts
-#### Upload Call Log
-#### Upload Messages
-#### Upload Photos
-#### Current Location
-#### Open a perticular web page 
-#### Mobile Number, Network provider, UUID, SDK version, android version, etc.
 
 ## More Specifications yet to come
-#### Video Uploads
 #### Live camera view
-#### Live screen recording
-#### Take screenshot remotely
 
 Android code is written in kotlin
 Website is running on node.js server
