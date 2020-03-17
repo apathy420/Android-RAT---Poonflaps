@@ -4,6 +4,8 @@ This is just a demo repository :-
 
 Full code is deployed at https://hawkshawspy.com/
 
+Watch video on YouTube at https://www.youtube.com/watch?v=1SKepgCq3tw
+
 For subscription/queries, email me at gupta.10@iitj.ac.in
 or
 Telegram :- @hawkshaw02
